@@ -1,2 +1,2 @@
 # pygame
-This is a simple source codes with pygame module
+This is a simple representation of game named Dodger
