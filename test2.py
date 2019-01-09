@@ -16,6 +16,7 @@ DOWN_RIGHT = 'downright'
 UP_LEFT = 'upleft'
 UP_RIGHT = 'upright'
 
+# how many pixels each block should move at each iteration
 MOVE_SPEED = 4
 
 WHITE = (255, 255, 255)
